@@ -1,0 +1,8 @@
+1. git clone https://github.com/noko3/cc-server.git cc-server
+2. cd cc-server
+3. mkdir build
+4. cd build
+5. cmake ..
+6. make
+7. ???
+8. PROFIT!!!
