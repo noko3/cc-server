@@ -1,3 +1,10 @@
+Currently done:
+1. git clone https://github.com/noko3/cc-server.git cc-server
+2. cd cc-server/src
+3. ./build.sh
+4. ./cc-server
+
+Future proposal:
 1. git clone https://github.com/noko3/cc-server.git cc-server
 2. cd cc-server
 3. mkdir build
